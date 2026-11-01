@@ -45,10 +45,10 @@ Ce projet m'a permis de renforcer mes connaissances, de développer mon autonomi
 Programme Java en console qui simule la vie de plusieurs Tamagotchis, cycle après cycle.
 
 ## Lancer le programme
-
+'''
 javac *.java
 java SimulTamagotchis
-
+'''
 ## Fichiers
 
 - Tamagotchi.java : la classe Tamagotchi
